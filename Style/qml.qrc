@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SystemText.qml</file>
+        <file>SystemTextBox.qml</file>
+        <file>SystemComboBox.qml</file>
+        <file>GlobalConfig.qml</file>
+        <file>SystemButton.qml</file>
+        <file>SystemScrollBar.qml</file>
+        <file>SystemNumberBox.qml</file>
+        <file>SystemPlayer.qml</file>
+        <file>SystemProgressBar.qml</file>
+        <file>SystemRadioButton.qml</file>
+        <file>MessageBoxPopup.qml</file>
+        <file>SystemCheckBox.qml</file>
+    </qresource>
+</RCC>

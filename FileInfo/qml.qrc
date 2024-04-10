@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FileInfoView.qml</file>
+        <file>InfoValue.qml</file>
+        <file>FileOutArgument.qml</file>
+        <file>TitleCombobox.qml</file>
+        <file>TitleNumberBox.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/close.png</file>
+        <file>img/gr_tips_ok.png</file>
+        <file>img/gemooconverter__install_close_hover.svg</file>
+        <file>img/gemooconverter_add.svg</file>
+        <file>img/gemooconverter_delete.svg</file>
+        <file>img/gemooconverter_install_arrow.svg</file>
+        <file>img/gemooconverter_install_arrow_check.svg</file>
+        <file>img/gemooconverter_install_arrow_checkhover.svg</file>
+        <file>img/gemooconverter_install_close.svg</file>
+        <file>img/gemooconverter_install_close_click.svg</file>
+        <file>img/gemooconverter_install_minimize.svg</file>
+        <file>img/gemooconverter_install_minimize_click.svg</file>
+        <file>img/gemooconverter_install_minimize_hover.svg</file>
+        <file>img/gemooconverter_install_privacy_box.svg</file>
+        <file>img/gemooconverter_install_privacy_box_hover.svg</file>
+        <file>img/gemooconverter_install_privacy_box_none.svg</file>
+        <file>img/gemooconverter_install_winimg1.png</file>
+        <file>img/gemooconverter_install_winimg2.png</file>
+        <file>img/gemooconverter_install_winimg3.png</file>
+        <file>img/gemooconverter_install_winlogo.svg</file>
+        <file>img/gemooconverter_music.svg</file>
+        <file>img/gemooconverter_nstall_arrow_hover.svg</file>
+        <file>img/gemooconverter_nstall_privacy_box_none_hover.svg</file>
+        <file>img/gemooconverter_uninstall.ico</file>
+        <file>img/gemooconverter_uninstall_winlogo.svg</file>
+        <file>img/gemooconverter_video.svg</file>
+        <file>img/gemooconverter_wipit_logo.ico</file>
+        <file>img/wipit_install_winbg.png</file>
+        <file>img/wipit_install_winfailed.png</file>
+        <file>img/defaultAduio.png</file>
+        <file>img/cancel.svg</file>
+        <file>img/设置.svg</file>
+        <file>img/文件夹.svg</file>
+    </qresource>
+</RCC>

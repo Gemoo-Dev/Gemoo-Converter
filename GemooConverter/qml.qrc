@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>gemooconverter_wipit_logo.ico</file>
+        <file>VersionUpgrade.qml</file>
+        <file>gemooconverter_logo.ico</file>
+    </qresource>
+</RCC>
