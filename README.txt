@@ -9,3 +9,9 @@ QT5.15.2 ffmpeg4.4
 运行环境：
 win7及以上系统64位系统
 macos 10.12及以上系统
+
+
+License
+This package is released under LGPLv3
+
+Qt itself is licensed and available under multiple licenses.
