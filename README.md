@@ -1,3 +1,4 @@
+##  https://gemoo.com/converter
 ## Gemoo Converter
 Your all-in-one free video and audio conversion tool.
 Enjoy seamless transitions between audio and video formats.
@@ -26,9 +27,6 @@ Win10 (QT5.15.2 ffmpeg4.4)
 
 ## operating environment：
 Available for Windows & macOS | 100% Clean
-
-##  https://gemoo.com/converter
-
 
 License
 This package is released under LGPLv3
