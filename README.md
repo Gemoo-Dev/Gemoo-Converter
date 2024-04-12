@@ -1,16 +1,18 @@
-产品功能：
-1 [视频格式转换]支持几乎任意输入视频格式进行转换，支持设置视频分辨率、码率、帧率等，支持MP4,MOV,MKV,M4V,AVI,WMV,WEBM,FLV,TS输出视频格式；
-2 [音频格式转换]支持几乎任意输入音频格式进行转换，支持设置音频声道、采样率、比特率等，支持mp3,m4a,wav,m4r,aiff,flac,ac3,aac,ogg,caf,amr,mp2输出音频格式；
-3 [音频提取]支持从视频中提取各种格式的音频；
+##Gemoo Converter
+Your all-in-one free video and audio conversion tool. Enjoy seamless transitions between audio and video formats. Customize and enhance your files with adjustable settings such as resolution, bitrate, frame rate, and audio quality.
+
 软件截图：
 
-开发环境：
-QT5.15.2 ffmpeg4.4
-运行环境：
-win7及以上系统64位系统
-macos 10.12及以上系统
+##development environment：
+Win10 (QT5.15.2 ffmpeg4.4)
+
+##operating environment：
+Available for Windows & macOS | 100% Clean
 
 https://gemoo.com/wordance
+
+
+
 License
 This package is released under LGPLv3
 
