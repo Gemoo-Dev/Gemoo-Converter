@@ -10,8 +10,10 @@ QT5.15.2 ffmpeg4.4
 win7及以上系统64位系统
 macos 10.12及以上系统
 
-
+https://gemoo.com/wordance
 License
 This package is released under LGPLv3
 
 Qt itself is licensed and available under multiple licenses.
+
+
